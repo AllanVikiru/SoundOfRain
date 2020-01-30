@@ -5,7 +5,7 @@ Ok, I needed to give instructions for setting it up - locally though.
 Create a new folder (name of your choice) in this location: <i> project-name\wp-content\plugins </i>
 
 #### Step 2.
-Clone this file into that folder or ctrl-c + ctrl-v, hey, it's your device, you do you!
+Clone this file into that folder or ctrl-c + ctrl-v; Hey, it's your device, you do you!
 
 #### Step 3.
 Save changes - of course. And now, it should be available on your project dashboard. <strong> Activate it! </strong>
