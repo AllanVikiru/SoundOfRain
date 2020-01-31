@@ -6,7 +6,7 @@
 
 /*
  Plugin Name: Sound of Rain
- Description: I got bored at work lol. Inspired by <a href = "https://wordpress.org/plugins/hello-dolly"> Hello Dolly</a> by <a href="https://ma.tt">Matt Mullenweg</a> and <a href="https://wordpress.org">WordPress.org</a>. Song: <a href= "https://en.wikipedia.org/wiki/When_I_Get_Home_(album)">Sound of Rain</a> , performed by <a href="https://en.wikipedia.org/wiki/Solange_Knowles">Solange Knowles</a> (2019).
+ Description: I got bored at work lol. Inspired by <a href = "https://wordpress.org/plugins/hello-dolly"> Hello Dolly</a> by <a href="https://ma.tt">Matt Mullenweg</a> and <a href="https://wordpress.org">WordPress.org</a>. Song: <a href= "https://www.youtube.com/watch?v=Tky406Tczwk">Sound of Rain</a> , performed by <a href="https://en.wikipedia.org/wiki/Solange_Knowles">Solange Knowles</a> (2019).
  Version: 1.0.0
  Author: Allan Vikiru
  Author URI: http://github.com/AllanVikiru
